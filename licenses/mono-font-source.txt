@@ -1,0 +1,2 @@
+Source: /usr/share/fonts/fonts-go/Go-Mono.ttf
+Embedded as WOFF2 for this package.

@@ -1,0 +1,2 @@
+Source: /usr/share/fonts/opentype/inter/InterDisplay-Bold.otf
+Embedded as WOFF2 for this package.
